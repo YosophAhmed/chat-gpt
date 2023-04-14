@@ -18,7 +18,6 @@ class ChatGpt extends StatelessWidget {
         scaffoldBackgroundColor: scaffoldBackgroundColor,
         appBarTheme: AppBarTheme(
           color: cardColor,
-          elevation: 0.0,
         ),
       ),
       home: const ChatScreen(),
